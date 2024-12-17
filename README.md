@@ -14,3 +14,5 @@ Hej och välkommen!
 2. En titt på gruppuppgiften
 3. Fortsättning Agile och Scrum
 4. Eget arbete med handledning
+
+![scrum](https://github.com/PGBSNH24P-Databaser/lektion11/blob/main/db-lek11.png?raw=true)
